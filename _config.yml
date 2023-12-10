@@ -16,9 +16,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
-
-remote_theme: vszhub/not-pure-poole
+  - not-pure-poole
 
 # Optimize Jekyll
 exclude:
