@@ -11,6 +11,7 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install --no-install-recommends ruby-full build-essential zlib1g-dev
 
 RUN gem install jekyll bundler
+RUN bundle config set --local path 'vendor/bundle'
 # [Optional] Uncomment this line to install additional gems.
 # RUN gem install <your-gem-names-here>
 
