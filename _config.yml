@@ -8,6 +8,7 @@ avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+theme: not-pure-poole
 
 # Gems
 plugins:
