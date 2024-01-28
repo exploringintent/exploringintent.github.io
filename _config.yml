@@ -1,25 +1,25 @@
-baseurl: "/"
+
 
 # Setup
 title: exploringintent
 description: Capturing life's moments through the lens of a curious explorer, one pixel at a time
 url: https://exploringintent.github.io/
-avatar: /avatar.jpeg
+domain: exploringintent.github.io
 paginate: 5
-permalink: pretty
-cover_image: /bg.jpeg
-#theme: not-pure-poole
+theme: null
+
+
+github:
+    is_user_page: true
+    owner_url: https://github.com/exploringintent
+    owner_name: Janis Bruzans
 
 # Gems
 plugins:
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
-
-remote_theme: vszhub/not-pure-poole
 
 # Optimize Jekyll
 exclude:
@@ -31,8 +31,13 @@ exclude:
   - LICENSE.md
   - README.md
   - scripts/
-  - not-pure-poole.gemspec
   - vendor/
+
+  sass:
+    sass_dir: _sass
+    style: compressed
+    
+
 
 # Optimize Jekyl SEO Tag
 logo: logo.png
@@ -42,22 +47,9 @@ social:
     - https://github.com/exploringintent
     - https://www.instagram.com/exploringintent/
     - https://www.linkedin.com/in/janisbruzans
-lang: en
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+lang: en-US
 
 # Specify the author for blog posts
 author:
   name: Janis Bruzans
   url: https://www.linkedin.com/in/janisbruzans
-  email: janis.bruzans@gmail.com
