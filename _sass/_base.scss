@@ -22,15 +22,15 @@ body {
 
 a {
     color: $color-link;
-    text-decoration: underline;
+    text-decoration: underline;    
+}
 
-    :hover {
-        color: $color-link-hover;
-    }
+a:hover {
+    color: $color-link-hover;
+}
 
-    :visited {
-        color: $color-link-visited;
-    }
+a:visited {
+    color: $color-link-visited;
 }
 
 

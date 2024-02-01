@@ -8,6 +8,29 @@ header{
     background-color: $theme-color-accent;       
 }
 
+nav {
+    padding: 0.7em;
+    border-bottom: 1px solid $theme-color-dark;
+    background-color: $theme-color-accent;
+    text-align: center;
+
+    a {
+        display: inline-block;
+        color: $theme-color-accent-link;
+        text-decoration: underline;
+        padding-left: 4em;
+        padding-right: 4em;
+    }
+
+    a:hover {
+        color: $theme-color-accent-link-hover;                   
+    }
+
+    a:visited {
+        color: $theme-color-accent-link;
+    }
+}
+
 main{
     background-color: $theme-color-light;
     box-sizing: content-box;   
@@ -46,15 +69,11 @@ footer{
     
     a {
         color: $theme-color-accent-link;
-        text-decoration: underline;
-    
-        :hover {
-            color: $theme-color-accent-link;
-        }
-    
-        :visited {
-            color: $theme-color-accent-link;
-        }
+        text-decoration: underline;  
+    }
+
+    a:visited {
+        color: $theme-color-accent-link;
     }
 }
 
@@ -90,11 +109,12 @@ article{
 
         h1 {
             margin: 0;
+            color:$theme-color-accent-text;
         }
 
         .post-meta{
             font-size: 0.7em;
-            color: #666;
+            color: $theme-color-accent-text;
             margin:0;
             text-indent: 0;
         }
@@ -103,11 +123,6 @@ article{
     .post-content{
         padding: 1em;
         line-height: calc(1ex / 0.32);
-    }
-
-    p {
-        //first line starts with an indent
-        text-indent: 1.5em;
     }
 
     ul{
