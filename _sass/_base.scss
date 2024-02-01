@@ -1,0 +1,37 @@
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: $color-text;
+}
+
+.site-header{
+    .site-title {
+        font-size: 2em;
+        font-weight: bold;
+        text-decoration: none;
+        color: $theme-color-accent-text;   
+    }
+
+    p {
+        display:inline-block;
+        margin-left: 2em;
+        font-size: 0.8em;
+        color: $theme-color-accent-text;   
+    }
+}
+
+a {
+    color: $color-link;
+    text-decoration: underline;
+
+    :hover {
+        color: $color-link-hover;
+    }
+
+    :visited {
+        color: $color-link-visited;
+    }
+}
+
+
+

@@ -1,14 +1,117 @@
-.site-header {
+
+body{
+    background-color: $theme-color-light;   
+}
+header{
     padding: 1em;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid $theme-color-dark;
+    background-color: $theme-color-accent;       
 }
 
-.page-content {
-    padding: 1em;
-    box-sizing: content-box;
+main{
+    background-color: $theme-color-light;
+    box-sizing: content-box;   
 }
 
-.site-footer {
+footer{
+    background-color: $theme-color-accent;
+    color: $theme-color-accent-text;
     padding: 1em;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid $theme-color-dark;
+
+    .author{
+        img {
+            display: inline-block;
+            height: 100px;
+            border-radius: 50px;
+        }
+
+        .author-name {
+            display: inline-block;
+            width: 50%;
+            vertical-align: top;
+            margin-left: 1em;
+
+            p {
+                margin-block: 0;
+                font-size: 1.2em;
+            }
+        }
+    }
+    
+    .disclaimer, .social{        
+        text-align: center;
+        position: relative
+    }   
+    
+    a {
+        color: $theme-color-accent-link;
+        text-decoration: underline;
+    
+        :hover {
+            color: $theme-color-accent-link;
+        }
+    
+        :visited {
+            color: $theme-color-accent-link;
+        }
+    }
 }
+
+.post-list{
+    padding: 1em;
+    margin: 0;
+    list-style: none;
+
+    li{
+        margin: 0;
+        padding: 0;
+        padding: 1em;
+        box-sizing: border-box;
+
+        h3{
+            margin: 0;
+            font-size: 1.5em;
+            font-weight: bold;
+            text-decoration: none;
+            color: $theme-color-accent-text;   
+        }
+
+        .post-meta{
+            font-size: 0.8em;   
+        }
+    }
+}
+
+article{
+    .post-header{
+        margin: 0;
+        font-size: 1.5em;
+
+        h1 {
+            margin: 0;
+        }
+
+        .post-meta{
+            font-size: 0.7em;
+            color: #666;
+            margin:0;
+            text-indent: 0;
+        }
+    }
+
+    .post-content{
+        padding: 1em;
+        line-height: calc(1ex / 0.32);
+    }
+
+    p {
+        //first line starts with an indent
+        text-indent: 1.5em;
+    }
+
+    ul{
+        margin-top: -1em;
+    }
+}
+
