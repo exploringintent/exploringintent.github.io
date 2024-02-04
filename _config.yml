@@ -2,10 +2,11 @@
 
 # Setup
 title: exploringintent
-description: Capturing life's moments through the lens of a curious explorer, one pixel at a time
+description: looking for the stories that shape things
 url: https://exploringintent.github.io/
 domain: exploringintent.github.io
 theme: null
+permalink: pretty
 
 
 github:
