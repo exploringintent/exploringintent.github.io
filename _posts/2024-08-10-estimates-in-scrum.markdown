@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Estimates in Scrum
-date:   2024-08-10 10:00:00 +0000
+date:   2024-08-10 7:00:00 +0000
 author: Janis Bruzans
 tags: [blog]
 ---
