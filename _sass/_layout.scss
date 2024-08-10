@@ -175,3 +175,32 @@ article{
         margin-top: -1em;
     }
 }
+
+.post-content {
+    max-width: 900px; /* Maximum width for large desktop screens */
+    width: 80%; /* 80% width for desktop viewports to center content */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 0 20px; /* Padding for some space on the sides */
+}
+
+/* For screens wider than 1200px (large desktops) */
+@media (min-width: 1200px) {
+    .post-content {
+        width: 780px; /* Minimum width for large screens */
+    }
+}
+
+/* For screens between 768px and 1199px (tablets and small desktops) */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .post-content {
+        width: 90%; /* Take up 90% of the screen width on tablets */
+    }
+}
+
+/* For mobile devices (screens less than 768px) */
+@media (max-width: 767px) {
+    .post-content {
+        width: 100%; /* Full width on mobile devices */
+        padding: 0 15px; /* Slight padding to avoid edge touching */
+    }
+}
