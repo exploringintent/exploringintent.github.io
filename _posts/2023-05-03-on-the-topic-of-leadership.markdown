@@ -20,7 +20,7 @@ As for me, one of the basic things that need to be in place is grounding yoursel
 First of all, main principles to strive for and how to build cooperation with others will affect most of your interactions. Here I take inspiration from David Marquet and Intent based leadership:
 
 
-Longer format talk on the same idea can be found here: [Intent-Based Leadership | Captain David Marquet | CMX Summit West 2015 – YouTube](https://www.youtube.com/watch?v=I5RkDDo6B9Y)
+Longer format talk on the same idea can be found here: [Intent-Based Leadership. Captain David Marquet - CMX Summit West 2015 – YouTube](https://www.youtube.com/watch?v=I5RkDDo6B9Y)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I5RkDDo6B9Y?si=WTESiXx-vNed3ZKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
