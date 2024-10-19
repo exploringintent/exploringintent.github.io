@@ -21,9 +21,14 @@ First of all, main principles to strive for and how to build cooperation with ot
 
 
 Longer format talk on the same idea can be found here: [Intent-Based Leadership | Captain David Marquet | CMX Summit West 2015 – YouTube](https://www.youtube.com/watch?v=I5RkDDo6B9Y)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I5RkDDo6B9Y?si=WTESiXx-vNed3ZKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 and if you want more from the author, there is a book: [https://amzn.eu/d/7i1AoJ9](https://amzn.eu/d/7i1AoJ9) and collection of ideas around leadership: [Leadership Nudges with David Marquet – YouTube](https://www.youtube.com/c/LeadershipNudges)
 
 If you are leading in a technical role, and this usually starts way earlier than what people usually asoicate with leadership: [The Coaching Architect Manifesto (Roy Osherove) – YouTube](https://www.youtube.com/watch?v=XgAJyC5keU0&t=1787s) and if you want there is a whole book on that topic [Elastic Leadership](https://www.elasticleadership.com/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgAJyC5keU0?si=Kp4NNjeKqNWDy9Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Still on the topic of mindset I want to throw in a book on career development that I found resonated with my world views and helped to enforce how I set my own career goals: [So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love: Newport, Cal: 8601420220263: Amazon.com: Books](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124)
 
