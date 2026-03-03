@@ -1,3 +1,11 @@
+---
+layout: post
+title:  Rewiring your thinking
+date:   2024-10-06 7:00:00 +0000
+author: Janis Bruzans
+tags: [leadership, systems thinking, theory of constraints, lean]
+---
+
 I'm spending some unplanned time off work this week and thought I should make note about the book reading streak I've been on since November last year. Though this time it's a slight departure from high-fantasy worlds and at least partially rooted in reality. I've been going through books about what I would label as management systems or thinking systems and it all started with a recommendation from a Microsoft Architect whom I encountered during one of our client workshops, it was [The Phoenix Project](https://amzn.eu/d/07EPXRXl). Initially I didn't quite recognize the name, but somewhere along the way I remembered it being recommended as "The DevOps Bible" and, well, it does make a convincing use case. While I had a good grasp of the DevOps practices and I have been part of transformation projects I somehow had missed reading the source material, relying on summaries and trainings that focused on the tools. But here, listening to the book (I tend to find more time for audiobooks rather than paper medium) I was exposed to the process of coming to the conclusions, and that felt so relatable. The other part that got me hooked was the ideas about Theory of Constraints. 
 
 Enough so that after even before finishing the book I had purchased the next read: [The Goal: A Process of Ongoing Improvement](https://amzn.eu/d/0iTFpNoG). Tone wise this book is a throwback to the time it was written - smoking and alcohol in the workspace, yet the book resonates so well when it gets to the main characters discussion about welding robots in their factory and how little tangible change they've had on overall factory productivity - and here we are more than 40 years later looking at the same phenomenon happening with knowledge work and AI introduction in existing processes. Any improvement not at the bottleneck will not bring you closer to the goal and the overall importance of flow. 
