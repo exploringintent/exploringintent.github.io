@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rewiring your thinking
-date:   2024-10-06 7:00:00 +0000
+date:   2026-03-04 0:35:00 +0000
 author: Janis Bruzans
 tags: [leadership, systems thinking, theory of constraints, lean]
 ---
