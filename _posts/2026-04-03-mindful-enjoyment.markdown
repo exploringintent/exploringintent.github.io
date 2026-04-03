@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Mindful enjoyment
-date:   2026-04-03 14:12:00 +0200
 author: Janis Bruzans
 tags: [mindfulness, systems thinking]
 ---
