@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Mindful enjoyment
+date:   2026-04-03 14:12:00 +0200
+author: Janis Bruzans
+tags: [mindfulness, systems thinking]
+---
+
+Minutes to hours, hours to days, days to weeks and months, years to lifetimes. 
+It's the easiest thing in the world - to exist. Not to survive, not to thrive, not to achieve and not to put effort or attention into enjoying. Just to exist. And we are hard wired for it. If it weren't so there wouldn't be so many platforms and media going out of their way to capture your attention. 
+Just a couple more reels, just the next video, next season of the series you started to watch today or just one more turn. The game is rigged and most of the time not in our favour. 
+There is a lot of power in intent - doing something with full understanding of why we are doing it. That's why I adopted the mindset - and the hande - exploringintent. It was, as many great things - a TED talk: [John Hockenberry: We are all designers | TED Talk](https://www.ted.com/talks/john_hockenberry_we_are_all_designers?subtitle=en) that introduced me to this concept. 
+Exploration takes time, it takes attention, and that doesn't happen when you are scrolling past titles at the speed of mouse scroll. We have a nifty name for that - doom scrolling. Been there, done that when pandemic and war in Ukraine was just starting. Social media bubbles - been there, first unintentionally, then later seeking to understand how much algorithms change what we see of the world, oh boy, before trying it I didn't realize how much political divide in US affected my YouTube suggestions even if I am far from target audience. And lately there is more and more of empty rehash of "AI slop" that exists in best case just to make a quick buck for someone and worst case to spread fear and doubt about something. 
+Now, what to do with all that .. I don't have a solution to sell, nor am I wise beyond my years being as flawed as everyone. The thing that seems to work is dedicating time to focus. Not  for sake of artificial hustle, not to get more done. But taking time to step back to listen, see and think. Let your senses feel what's happening and let your mind explore the connections. Putting effort into noticing. I've read a great deal of good about mindfulness and practices that are associated with it, and yet I rarely practice it in such pure manner (this may be something for me to challenge myself) - yet even stilling yourself with music, taking a walk or a longer drive and making a conscious effort to ground yourself in moments throughout the day seems to help. Surely that's not the one or only right answer for everyone, but we should never accept not being in control of ourselves.
